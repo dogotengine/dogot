@@ -4,6 +4,8 @@ Coming soon...
 
 Unlike other engines, Dogot will be so *Epic* that it brings *Unity* among all game developers.
 
+*** Contrary to what some people are saying, Dogot is not a fork of Godot! ***
+
 ## [Dogot Discord](https://discord.gg/xWeqPDNY)
 
 ## 2D and 3D cross-platform game engine
