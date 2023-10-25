@@ -4,7 +4,7 @@ Coming soon...
 
 Unlike other engines, Dogot will be so *Epic* that it brings *Unity* among all game developers.
 
-## [Discord](https://discord.gg/xWeqPDNY)
+## [Dogot Discord](https://discord.gg/xWeqPDNY)
 
 ## 2D and 3D cross-platform game engine
 Dogot engine is a 2D and 3D game engine that can be used to create games and simulations. 
