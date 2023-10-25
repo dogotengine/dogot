@@ -2,4 +2,4 @@
 
 Coming soon...
 
-Unlike other engines, Dogot will be so *Epic* that it beings *Unity* among all game developers.
+Unlike other engines, Dogot will be so *Epic* that it brings *Unity* among all game developers.
